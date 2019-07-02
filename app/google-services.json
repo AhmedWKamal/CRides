@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "899370426234",
+    "firebase_url": "https://campusrides-4d91a.firebaseio.com",
+    "project_id": "campusrides-4d91a",
+    "storage_bucket": "campusrides-4d91a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899370426234:android:4362268cef997287",
+        "android_client_info": {
+          "package_name": "com.bengalesh.campusrides"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899370426234-qs2nia05heknfalq10ehg9lm376pl2pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bengalesh.campusrides",
+            "certificate_hash": "3ff8b4732147ec765f412704757054a37c73e104"
+          }
+        },
+        {
+          "client_id": "899370426234-o1i4f1fl21h5aiq1t44cvcecmemoinrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJV6d4wBvXkKy4E_yrZhRbKpiCE5fTOfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899370426234-o1i4f1fl21h5aiq1t44cvcecmemoinrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
